@@ -22,7 +22,7 @@ function PasswordGenerator() {
       changeStrength("TOO WEAK!");
       bar1Ref.current.style.backgroundColor = "hsl( 0 91% 63% )";
       bar1Ref.current.style.border = "none";
-      bar2Ref.current.style.backgroundColor = "";
+      bar2Ref.current.style.backgroundColor = "hsl(248 15% 11%)";
       bar2Ref.current.style.border = "white 0.15rem solid";
       bar3Ref.current.style.backgroundColor = "";
       bar3Ref.current.style.border = "white 0.15rem solid";
